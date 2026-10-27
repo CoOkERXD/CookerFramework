@@ -1,0 +1,12 @@
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\bin\Debug\net10.0\Cooker.Cache.Redis.deps.json
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\bin\Debug\net10.0\Cooker.Cache.Redis.dll
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\bin\Debug\net10.0\Cooker.Cache.Redis.pdb
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\obj\Debug\net10.0\Cooker.Cache.Redis.csproj.AssemblyReference.cache
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\obj\Debug\net10.0\Cooker.Cache.Redis.GeneratedMSBuildEditorConfig.editorconfig
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\obj\Debug\net10.0\Cooker.Cache.Redis.AssemblyInfoInputs.cache
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\obj\Debug\net10.0\Cooker.Cache.Redis.AssemblyInfo.cs
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\obj\Debug\net10.0\Cooker.Cache.Redis.csproj.CoreCompileInputs.cache
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\obj\Debug\net10.0\Cooker.Cache.Redis.dll
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\obj\Debug\net10.0\refint\Cooker.Cache.Redis.dll
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\obj\Debug\net10.0\Cooker.Cache.Redis.pdb
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Cache.Redis\obj\Debug\net10.0\ref\Cooker.Cache.Redis.dll

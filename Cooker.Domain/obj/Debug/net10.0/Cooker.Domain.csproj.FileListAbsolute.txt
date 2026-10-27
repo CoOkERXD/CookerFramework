@@ -1,0 +1,12 @@
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\bin\Debug\net10.0\Cooker.Domain.deps.json
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\bin\Debug\net10.0\Cooker.Domain.dll
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\bin\Debug\net10.0\Cooker.Domain.pdb
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\obj\Debug\net10.0\Cooker.Domain.csproj.AssemblyReference.cache
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\obj\Debug\net10.0\Cooker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\obj\Debug\net10.0\Cooker.Domain.AssemblyInfoInputs.cache
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\obj\Debug\net10.0\Cooker.Domain.AssemblyInfo.cs
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\obj\Debug\net10.0\Cooker.Domain.csproj.CoreCompileInputs.cache
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\obj\Debug\net10.0\Cooker.Domain.dll
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\obj\Debug\net10.0\refint\Cooker.Domain.dll
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\obj\Debug\net10.0\Cooker.Domain.pdb
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Domain\obj\Debug\net10.0\ref\Cooker.Domain.dll

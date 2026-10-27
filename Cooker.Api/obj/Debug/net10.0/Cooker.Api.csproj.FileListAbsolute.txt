@@ -1,0 +1,12 @@
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\bin\Debug\net10.0\Cooker.Api.deps.json
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\bin\Debug\net10.0\Cooker.Api.dll
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\bin\Debug\net10.0\Cooker.Api.pdb
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\obj\Debug\net10.0\Cooker.Api.csproj.AssemblyReference.cache
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\obj\Debug\net10.0\Cooker.Api.GeneratedMSBuildEditorConfig.editorconfig
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\obj\Debug\net10.0\Cooker.Api.AssemblyInfoInputs.cache
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\obj\Debug\net10.0\Cooker.Api.AssemblyInfo.cs
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\obj\Debug\net10.0\Cooker.Api.csproj.CoreCompileInputs.cache
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\obj\Debug\net10.0\Cooker.Api.dll
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\obj\Debug\net10.0\refint\Cooker.Api.dll
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\obj\Debug\net10.0\Cooker.Api.pdb
+d:\Desktop\MyNugetPack\CoookerFramework\Cooker.Api\obj\Debug\net10.0\ref\Cooker.Api.dll

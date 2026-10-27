@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.9</Version>
+    <Authors>Cooker</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cooker.Application" Version="1.0.1" />
+    <PackageReference Include="Cooker.Common" Version="1.0.6" />
+    <PackageReference Include="Cooker.Core.MySql" Version="1.0.4" />
+    <PackageReference Include="Cooker.Domain" Version="1.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="10.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="10.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="10.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.0.0" />
+  </ItemGroup>
+
+</Project>

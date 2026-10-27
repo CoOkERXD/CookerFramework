@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1BVh6wWvFZA=",
+  "success": true,
+  "projectFilePath": "d:\\Desktop\\MyNugetPack\\CoookerFramework\\Cooker.Domain\\Cooker.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CoOkER\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\CoOkER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

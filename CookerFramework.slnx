@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Cooker.Api/Cooker.Api.csproj" />
+  <Project Path="Cooker.Application/Cooker.Application.csproj" />
+  <Project Path="Cooker.Cache.Redis/Cooker.Cache.Redis.csproj" />
+  <Project Path="Cooker.Common/Cooker.Common.csproj" />
+  <Project Path="Cooker.Core.MySql/Cooker.Core.MySql.csproj" />
+  <Project Path="Cooker.Domain/Cooker.Domain.csproj" />
+  <Project Path="Cooker.JwtBearer/Cooker.JwtBearer.csproj" />
+</Solution>
